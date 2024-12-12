@@ -1,4 +1,4 @@
-# 🛠 Localizador de Valores ASCII
+## 🛠 Localizador de Valores ASCII
 
 Este é um programa simples em Python que permite aos usuários encontrar os valores ASCII de caracteres ou strings que eles inserem. O programa é interativo e executa em um loop, permitindo que os usuários insiram dados continuamente sem reiniciar o script.
 
